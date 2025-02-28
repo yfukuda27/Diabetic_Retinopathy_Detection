@@ -1,10 +1,5 @@
 # Diabetic Retinopathy Stage Classification Model
 
-<div align="center">
-  <img src="assets/sample_fundus.png" alt="Fundus Image Sample" width="300"/>
-  <p><i>Sample fundus image from dataset</i></p>
-</div>
-
 ## Project Overview
 This project aims to develop a deep learning model that automatically classifies stages of Diabetic Retinopathy (DR) using fundus images. The model classifies DR into 5 stages (0-4), providing a crucial tool for early detection and monitoring of DR progression.
 
@@ -43,10 +38,6 @@ python
 'recall': 0.82,
 'f1_score': 0.82
 }
-<div align="center">
-  <img src="assets/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
-  <p><i>Model Performance Confusion Matrix</i></p>
-</div>
 
 ## 📂 Dataset Structure
 dataset/
@@ -153,11 +144,11 @@ config = {
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourusername)
+- [Yuji Fukuda](https://github.com/yfukuda27)
 
 ## 📮 Contact
-- Email: your.email@domain.com
-- Project Link: [GitHub](https://github.com/yourusername/dr-classification)
+- Email: yuji050808@gmail.com
+- Project Link: [GitHub](https://github.com/yfukuda27/Diabetic_Retinopathy_Detection)
 
 ---
 <div align="center">
