@@ -121,12 +121,6 @@ config = {
 - Horizontal/Vertical flip
 - Random brightness/contrast adjustment
 
-## 📈 Results and Visualization
-
-<div align="center">
-  <img src="assets/training_curves.png" alt="Training Curves" width="600"/>
-  <p><i>Training and Validation Curves</i></p>
-</div>
 
 ## 📈 Future Improvements
 1. **Data Collection**:
