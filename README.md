@@ -80,7 +80,7 @@ dataset/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dr-classification.git
+git clone https://github.com/yfukuda27/Diabetic_Retinopathy_Detection.git
 cd dr-classification
 ```
 2. Create virtual environment:
