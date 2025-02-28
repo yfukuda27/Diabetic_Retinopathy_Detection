@@ -40,15 +40,15 @@ python
 }
 
 ## 📂 Dataset Structure
-dataset/
-├── train_images/
-│   ├── stage0/  # 정상 망막 이미지
-│   ├── stage1/  # 경증 DR 이미지
-│   ├── stage2/  # 중등도 DR 이미지
-│   ├── stage3/  # 중증 DR 이미지
-│   └── stage4/  # 증식성 DR 이미지
-├── val_images/   # 검증용 이미지
-└── test_images/  # 테스트용 이미지
+dataset//
+├── train_images//
+│   ├── stage0// 
+│   ├── stage1// 
+│   ├── stage2//  
+│   ├── stage3//  
+│   └── stage4// 
+├── val_images//   
+└── test_images//  
 
 ### Dataset Distribution
 - **Total Images**: 5,000
