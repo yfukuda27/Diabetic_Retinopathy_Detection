@@ -40,6 +40,8 @@ python
 }
 
 ## 📂 Dataset Structure
+
+```
 dataset/
 ├── train_images/
 │   ├── stage0/
@@ -49,6 +51,7 @@ dataset/
 │   └── stage4/
 ├── val_images/
 └── test_images/
+```
 
 
 ### Dataset Distribution
